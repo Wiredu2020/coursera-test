@@ -1,0 +1,25 @@
+body {
+  font-family: "Lato", sans-serif;
+  #margin: 0px;
+}
+
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.main-navbar {
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-between;
+  padding: 38px;
+}
+
+.showcase {
+  
+  min-height: 400px;
+  background: url('../images/showcase.jpg') no-repeat ;
+
+  text-align: center;
+  #color: #ffffff;
+}
