@@ -21,8 +21,7 @@ p {
 	font-family: Helvetica;
 	color: black;
 	padding: 5px;
-	border-color: black;
-	border-width: 1px;
+	border: 1px solid black;
  }
 
 .off1{
@@ -36,8 +35,7 @@ p {
 	margin-right: 2px;
 	padding: 3px;
 	display: inline-block;
-	border-color: black;
-	border-width: 1px;
+	border: 1px solid black;
 }
 
 .off2{
@@ -51,8 +49,7 @@ p {
 	margin-right: 2px;
 	padding: 3px;
 	display: inline-block;
-	border-color: black;
-	border-width: 1px;
+	border: 1px solid black;
 }
 
 .off3{
@@ -66,8 +63,7 @@ p {
 	margin-right: 2px;
 	padding: 3px;
 	display: inline-block;
-	border-color: black;
-	border-width: 1px;
+	border: 1px solid black;
 }
 
  
